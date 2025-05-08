@@ -1,0 +1,12 @@
+
+enter row and collumn
+4 4
+
+enter 
+
+0 1 0 1 
+0 1 1 0
+0 1 1 0
+0 0 0 0 
+
+prin 4
